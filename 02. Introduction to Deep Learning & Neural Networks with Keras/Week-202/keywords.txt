@@ -4,3 +4,5 @@ gradient descent
 back-propagation
 forward propagation
 training a neural network
+vanishing gradient
+exploding gradient
