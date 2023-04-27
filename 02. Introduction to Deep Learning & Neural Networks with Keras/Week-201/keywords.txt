@@ -1,0 +1,3 @@
+activation function
+sigmoid activation function
+forward propagation
