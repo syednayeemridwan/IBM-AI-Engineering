@@ -5,3 +5,4 @@ pooling
 fully connected layer
 convolutional neural network
 cnn python
+recurrent neural network
