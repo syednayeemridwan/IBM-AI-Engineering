@@ -1,2 +1,7 @@
 shallow neural network
 deep neural network
+convolution
+pooling
+fully connected layer
+convolutional neural network
+cnn python
