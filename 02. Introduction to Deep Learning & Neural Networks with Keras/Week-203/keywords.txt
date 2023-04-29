@@ -3,3 +3,5 @@ dense network
 densely connected neural network
 creating a neural network
 neural network example
+classification neural network
+regression neural network
