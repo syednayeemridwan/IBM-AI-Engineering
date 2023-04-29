@@ -1,1 +1,3 @@
 keras vs tensorflow
+dense network
+densely connected neural network
