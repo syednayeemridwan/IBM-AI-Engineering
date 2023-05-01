@@ -1,0 +1,4 @@
+digital image
+image mask
+import image
+convert to grayscale
