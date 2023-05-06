@@ -13,3 +13,7 @@ Intensity transformation
 histogram equalization
 image negative
 segmentation
+image histogram
+contrast transformation
+brightness transformation
+image segmentation / thresholding
