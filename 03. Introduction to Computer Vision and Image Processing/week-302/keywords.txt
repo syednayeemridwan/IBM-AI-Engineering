@@ -4,3 +4,4 @@ import image
 convert to grayscale
 image to array
 quantize image
+split image channels
