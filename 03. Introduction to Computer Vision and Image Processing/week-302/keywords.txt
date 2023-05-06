@@ -12,3 +12,4 @@ copy image
 Intensity transformation
 histogram equalization
 image negative
+segmentation
