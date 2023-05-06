@@ -17,3 +17,5 @@ image histogram
 contrast transformation
 brightness transformation
 image segmentation / thresholding
+geometric transformation
+image decomposition
