@@ -9,3 +9,6 @@ plot image
 plot image side by side 
 save image
 copy image
+Intensity transformation
+histogram equalization
+image negative
