@@ -7,3 +7,5 @@ quantize image
 split image channels
 plot image
 plot image side by side 
+save image
+copy image
