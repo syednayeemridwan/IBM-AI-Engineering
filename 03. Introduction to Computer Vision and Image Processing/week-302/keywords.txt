@@ -5,3 +5,5 @@ convert to grayscale
 image to array
 quantize image
 split image channels
+plot image
+plot image side by side 
