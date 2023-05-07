@@ -19,3 +19,9 @@ brightness transformation
 image segmentation / thresholding
 geometric transformation
 image decomposition
+convolution
+low pass filter
+high pass filter
+median filter
+mean filter
+edge detection
