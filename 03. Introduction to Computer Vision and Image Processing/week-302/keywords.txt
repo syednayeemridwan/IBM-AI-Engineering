@@ -25,3 +25,7 @@ high pass filter
 median filter
 mean filter
 edge detection
+sharpening image
+blurring image
+image convolution
+adding noise to image
